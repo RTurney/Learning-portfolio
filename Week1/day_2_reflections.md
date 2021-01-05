@@ -29,4 +29,8 @@
    * init rspec and set up a spec file
    * set up a unit test
    * code to pass the test
-   * move between feature and unit test
+   * ~~moved between a feature test and a unit test~~
+   * wrote an rspec test using *it* in a single line
+
+-> don't actually understand the difference between a feature test and a unit test
+
