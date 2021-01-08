@@ -6,23 +6,23 @@
 
 ## Reflections
 
--> The key thing I need to rememeber about debugging is the mantra:
+* The key thing I need to rememeber about debugging is the mantra:
     "Tighten the loop; Get visibility"
 
--> Remember that debugging is the 'process of removing bugs from a program' 
+* Remember that debugging is the 'process of removing bugs from a program' 
 
--> When debugging, the main part of increasing visibilty and the *stack trace* is to identify the **exact** line which is causing the issue.
+* When debugging, the main part of increasing visibilty and the *stack trace* is to identify the **exact** line which is causing the issue.
 
--> Mastering debugging was very difficult but the main thing to remember is the line above^
+* Mastering debugging was very difficult but the main thing to remember is the line above^
 
--> I was reminded today what the difference between forking and cloning a repository was. And how to initialise a github repo and push/pull to/from it. 
+* I was reminded today what the difference between forking and cloning a repository was. And how to initialise a github repo and push/pull to/from it. 
    This was very useful for pairing with someone else this afternoon remotely and pushing our new commits to the same repo. 
    
--> I learnt what a user story is and how we can extract a domain model from a user story (basically the objects of the domain model are the nouns in the user story, while the messages are the verbs)
+* I learnt what a user story is and how we can extract a domain model from a user story (basically the objects of the domain model are the nouns in the user story, while the messages are the verbs)
 
--> learnt about using irb for running a feature test, as well as what a *feature test* was. 
+* learnt about using irb for running a feature test, as well as what a *feature test* was. 
 
--> started the main steps to any project:
+* started the main steps to any project:
    * make the directory
    * init the git 
    * install the rspec (test software) 
@@ -32,5 +32,5 @@
    * ~~moved between a feature test and a unit test~~
    * wrote an rspec test using *it* in a single line
 
--> don't actually understand the difference between a feature test and a unit test
+* don't actually understand the difference between a feature test and a unit test
 
