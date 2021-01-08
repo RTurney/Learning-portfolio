@@ -1,4 +1,10 @@
 # Day 5 reflections
 
 ## Goals
-* [ ] Understand Encapsulation in OOP
+* [x] Understand Encapsulation in OOP
+* [ ] Understand SRP in OOP
+
+
+## Reflections
+
+* 
