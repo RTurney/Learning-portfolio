@@ -9,6 +9,6 @@ By the end of the week all developers can:
 * [x] Describe some basic OO principles like encapsulation, SRP
 
 ## Challenges 
-* afternoons - boris bike pair challenge
+* afternoons - [Boris Bike pair prgramming challenge](https://github.com/RTurney/boris-bikes) 
 * end of unit - Airport
 
