@@ -2,7 +2,7 @@
 
 ## Goals: 
 * [ ] Debugging 
-* [ ] Pair programming 
+* [x] Pair programming 
 
 ## Reflections
 
