@@ -31,5 +31,9 @@ https://docs.google.com/spreadsheets/d/1zq6G6kpwI25_1A-4hIW-yC06aAKIa0f34v69iiNY
 I have yet to add anything here but as I continue on my learning jourmney I will add links to the projects I have worked on under here. 
 
 * Week 1 - [Boris Bike pair programming challenge](https://github.com/RTurney/boris-bikes)
+* Week 1 - [Airport challenge](https://github.com/RTurney/airport_challenge)
+* Week 2 - [Oystercard pair programming challenge](https://github.com/RTurney/oystercard)
+* Week 2 - [Takeaway challenge](https://github.com/RTurney/takeaway-challenge)
+
 
 
