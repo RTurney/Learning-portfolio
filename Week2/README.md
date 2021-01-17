@@ -10,5 +10,5 @@
 
 ## Challenges
 
-* [Oystercard Pair programming] (https://github.com/RTurney/oystercard)
+* [Oystercard Pair programming](https://github.com/RTurney/oystercard)
 * Takeaway
