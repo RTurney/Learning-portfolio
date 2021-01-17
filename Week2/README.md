@@ -11,4 +11,4 @@
 ## Challenges
 
 * [Oystercard Pair programming](https://github.com/RTurney/oystercard)
-* Takeaway
+* [Takeaway](https://github.com/RTurney/takeaway-challenge)
