@@ -4,6 +4,9 @@ A portfolio of my learning journey in Makers and a way for me to track my own de
 
 As I go forward this will include examples of my own work, challenges completed as well as the processes I have learnt through the course. 
 
+* [Course outlines](https://github.com/makersacademy/course/blob/master/course_outline.md)
+* [Weekly outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md)
+
 Below is a link to my daily learning log that I am using to track daily accomplishments. 
 https://docs.google.com/spreadsheets/d/1zq6G6kpwI25_1A-4hIW-yC06aAKIa0f34v69iiNYuW0/edit?usp=sharing
 
