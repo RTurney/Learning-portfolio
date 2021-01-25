@@ -8,3 +8,5 @@
 
 ## Challenges
 
+* Bookmark manager - pair programming challenge
+* End of unit - Chitter
