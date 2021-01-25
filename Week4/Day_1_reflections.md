@@ -20,4 +20,4 @@
 * I did not get much time to look into the MVC framework this morning due to the workshop. I definitely deel as though I will need more reading to understand the framework a bit more and it was definitely not something I was keeping in mind during the challenge over the weekend. 
 However, doing the pair programming challenge this afternoon definitely helped my understanding of what is meant to mean. I will still need to spend time getting an in-depth understanding though. 
 
-* 
+* The pair programming session went well. The subject for this week is sql and databases. This is something I have never worked on before and I am a bit nervous about as I believe it may be quite hard. However, the work today was not too difficult and I think I have a slightly better understanding of databases and their uses. 
