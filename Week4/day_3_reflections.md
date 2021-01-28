@@ -18,3 +18,5 @@
 * We worked very well together and managed to set up a full stack feature for the pair project without the walkthrough. Was impressed that we managed to solve our own error messages as well. 
 
 * Overall a great day. Has made me want to do furter research into style guides for ruby and rspec as well to better my own knowledge. 
+
+* I'm also considering setting up a daily rating for each day on how I feel. Might allow me to monitor where my good and bad days are a bit better. If so, I would give today a: 7/10
