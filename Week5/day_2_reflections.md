@@ -14,4 +14,6 @@
 
 * The biggest thing we learnt today was Sinatras Active::record gem which allows for easy working with databases. I would be lying if I said I had an advanced understanding of it but I think I get the basics and can certainly see the advantages of using it. 
 
-* 
+* Learnt about git commit conventions which is useful. I think it will be very useful for future projects if I stick to these conventions as well as ensuring team mates do the same. 
+
+* Overall I am really happy with how the day went! I feel like I learnt alot and we made a bunch of progress. 
