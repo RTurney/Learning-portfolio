@@ -8,7 +8,9 @@
 ## Challenges
 
 * weekdays - Thermostat 
+
 ~~* End of unit - bowling in js~~
+
 * Airport challenge translation
 
 ## Weekly reflection
