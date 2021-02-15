@@ -1,6 +1,6 @@
 # Week 6 
 
-## Goals 
+## Goals 
 
 * [x] Test drive a simple front-end web app with javascript 
 * [x] follow an effectove process for learning a new language
@@ -8,10 +8,7 @@
 ## Challenges
 
 * weekdays - Thermostat 
-
-~~* End of unit - bowling in js~~
-
-* Airport challenge translation
+* End of unit - ~~bowling in js~~ Airport challenge translation
 
 ## Weekly reflection
 
