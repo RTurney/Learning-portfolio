@@ -37,6 +37,14 @@ I have yet to add anything here but as I continue on my learning jourmney I will
 * Week 1 - [Airport challenge](https://github.com/RTurney/airport_challenge)
 * Week 2 - [Oystercard pair programming challenge](https://github.com/RTurney/oystercard)
 * Week 2 - [Takeaway challenge](https://github.com/RTurney/takeaway-challenge)
+* Week 3 - 
+* Week 3 -
+* Week 4 - 
+* Week 4 - 
+* Week 5 - 
+* Week 5 - 
+* Week 6 - 
+* Week 6 - 
 
 
 
