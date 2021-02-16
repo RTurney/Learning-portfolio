@@ -7,8 +7,8 @@
 
 ## Challenges
 
-* weekdays - Thermostat 
-* End of unit - ~~bowling in js~~ Airport challenge translation
+* weekdays - [Thermostat](https://github.com/RTurney/Thermostat) 
+* End of unit - ~~bowling in js~~ [Airport challenge translation](https://github.com/RTurney/airport_challenge_js)
 
 ## Weekly reflection
 
