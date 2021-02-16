@@ -2,13 +2,13 @@
 
 ## Goals 
 
-* [ ] Break down projects into tasks and allocate them into pairs 
-* [ ] Build to a specification 
-* [ ] Run stand-ups and retrospectives 
-* [ ] Use a branch/PR/merge git workflows 
-* [ ] Give and receive meaningful code reviews 
+* [x] Break down projects into tasks and allocate them into pairs 
+* [x] Build to a specification 
+* [x] Run stand-ups and retrospectives 
+* [x] Use a branch/PR/merge git workflows 
+* [x] Give and receive meaningful code reviews 
 
 ## Challenges 
 
-* Weekdays - MakersBnB as a group 
-* End of unit - Bowling
+* Weekdays - [MakersBnB as a group](https://github.com/JoshSinyor/makersbnb) 
+* End of unit - [Bowling](https://github.com/RTurney/bowling-challenge-ruby)
