@@ -1,5 +1,7 @@
 # List of terminology and definitions:
 
+[No Idea block](#no-idea) | [Limited understanding block](#slight-understanding) | [Full understanding block](#full-understanding) | [Definitions](#definitions)
+
 This is a list of terms or names that I do not fully understand and would like to look into further. 
 I will break this down into several areas. 
 1) No idea - this section will include terms that I have no concept about and need to improve on. 
@@ -9,13 +11,16 @@ I will break this down into several areas.
 Rules of this document:
 Each concept will move up into a higher tier. I will ~~strikethrough~~ each concept/term as it leaves a tier into a higher one. 
 
-## No idea:
+## [No idea:](#no-idea)
+
+* API
+* javascript - fetch
 
 
-## Slight understanding
+## [Slight understanding:](#slight-understanding)
 
 
-## Full understanding
+## [Full understanding:](#full-understanding)
 
 
-## Definitions:
+## [Definitions:](#definitions)
