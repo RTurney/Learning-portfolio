@@ -7,31 +7,79 @@ And so here I will list what I am capable of doing in Ruby and use this is a lea
 ## Ruby achievements
 
 ### Basics:
-* [ ] Defining a variable 
-* [ ] Defining a function
-* [ ] Calling a function 
+* [x] Defining a variable 
+* [x] Defining a function
+* [x] Calling a function 
+* [x] Arrays + array manipulation
+* [x] Hashes
+* [x] For/each loops
+* [x] While loops 
+* [x] If/else statments
+* [x] case statements
+* [x] Operators
+* [x] String coersion
+
+### Classes
+* [x] Can define a class
+* [x] Can call a class by another class 
+* [x] Can build functions within a class 
+* [x] Can build private functions 
+* [x] Can define constants 
+* [x] Can initialise class 
+* [x] Inheriting another class 
+
+### Testing
+* [x] Rspec unit testing 
+* [x] IRB feature testing
+* [x] Capybara web application testing 
+
+### Importing
+* [x] Can install gems/libraries 
+* [x] Can require other files/classes
+* [x] Can read csv files or documents
+* [x] Can write csv files or documents
+* [x] Can edit csv files or documents
+
+### Databases
+* [x] Can call a database
+* [ ] CRUD
+
+### Web applications
+* [x] Can call my code within HTML 
+* [x] Can build a static webpage
+* [x] Can build an interactive webpage 
+* [ ] 
+
+---------------------------------------------------------------------------------------------------------------------
+## Javascript accomplishments
+
+### Basics:
+* [x] Defining a variable 
+* [x] Defining a function
+* [x] Calling a function 
 * [ ] Arrays + array manipulation
 * [ ] Hashes
-* [ ] For/each loops
+* [x] For/each loops
 * [ ] While loops 
-* [ ] If/else statments
+* [x] If/else statments
 * [ ] case statements
-* [ ] Operators
+* [x] Operators
 * [ ] String coersion
 
 ### Classes
-* [ ] Can define a class
+* [x] Can define a class
 * [ ] Can call a class by another class 
-* [ ] Can build functions within a class 
-* [ ] Can build private functions 
-* [ ] Can define constants 
-* [ ] Can initialise class 
+* [x] Can build functions within a class 
+* [x] Can build private functions 
+* [x] Can define constants 
+* [x] Can initialise class 
 * [ ] Inheriting another class 
 
 ### Testing
-* [ ] Rspec unit testing 
-* [ ] IRB feature testing
-* [ ] Capybara web application testing 
+* [x] Jasmine testing
+* [ ] feature testing
+* [ ] web application testing 
+* [ ] Jest
 
 ### Importing
 * [ ] Can install gems/libraries 
@@ -45,6 +93,6 @@ And so here I will list what I am capable of doing in Ruby and use this is a lea
 * [ ] CRUD
 
 ### Web applications
-* [ ] Can call my code wiht HTML 
-* [ ] Can build a static webpage
+* [x] Can call my code wiht HTML 
+* [x] Can build a static webpage
 * [ ] Can build an interactive webpage 
