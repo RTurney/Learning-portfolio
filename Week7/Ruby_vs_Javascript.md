@@ -10,9 +10,41 @@ And so here I will list what I am capable of doing in Ruby and use this is a lea
 * [ ] Defining a variable 
 * [ ] Defining a function
 * [ ] Calling a function 
-* [ ] Arrays
+* [ ] Arrays + array manipulation
 * [ ] Hashes
 * [ ] For/each loops
 * [ ] While loops 
+* [ ] If/else statments
+* [ ] case statements
+* [ ] Operators
+* [ ] String coersion
 
-### 
+### Classes
+* [ ] Can define a class
+* [ ] Can call a class by another class 
+* [ ] Can build functions within a class 
+* [ ] Can build private functions 
+* [ ] Can define constants 
+* [ ] Can initialise class 
+* [ ] Inheriting another class 
+
+### Testing
+* [ ] Rspec unit testing 
+* [ ] IRB feature testing
+* [ ] Capybara web application testing 
+
+### Importing
+* [ ] Can install gems/libraries 
+* [ ] Can require other files/classes
+* [ ] Can read csv files or documents
+* [ ] Can write csv files or documents
+* [ ] Can edit csv files or documents
+
+### Databases
+* [ ] Can call a database
+* [ ] CRUD
+
+### Web applications
+* [ ] Can call my code wiht HTML 
+* [ ] Can build a static webpage
+* [ ] Can build an interactive webpage 
