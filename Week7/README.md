@@ -8,4 +8,7 @@
 ## Challenges
 
 * Weekdays - Group NotePad project
-* End of unit - 
+* End of unit - NewsReel App
+
+## End of week reflections
+
