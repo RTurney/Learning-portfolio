@@ -5,5 +5,7 @@
 * [ ] Go through API pill 
 * [ ] Learn how to use ruby on rails 
 * [ ] Group project 
+* [ ] Learn about pipelines
+
 
 ## Reflections:
