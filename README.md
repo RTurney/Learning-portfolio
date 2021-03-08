@@ -45,6 +45,11 @@ I have yet to add anything here but as I continue on my learning jourmney I will
 * Week 5 - [Ruby Bowling card challenge](https://github.com/RTurney/bowling-challenge-ruby)
 * Week 6 - [Thermostat pair programming challenge](https://github.com/RTurney/Thermostat)
 * Week 6 - ~~[Javascript bowling challenge]~~ [Airport javascript challenge](https://github.com/RTurney/airport_challenge_js)
+* Week 7 - [NotePad pair programming challenge](https://github.com/PetarSimonovic/noteApp)
+* Week 7 - [News summary challenge](https://github.com/RTurney/news-summary-challenge)
+* Week 8/9 - [Enginnering group project](https://github.com/jshields123/acebook--Pipeface-)
+* Week 8 - [Instagram challenge](https://github.com/RTurney/instagram-challenge)
+* Week 9 - Tech tests
 
 
 
