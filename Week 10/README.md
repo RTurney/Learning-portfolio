@@ -5,7 +5,7 @@
 * [ ] Complete Bank tech test
 * [ ] Complete gilded rose tech test 
 * [ ] Complete third tech test
-* [ ] Apply to AND
+* [x] Apply to AND
 * [ ] Work on instagram challenge
 * [ ] Clean up Github
 * [ ] Third review 
