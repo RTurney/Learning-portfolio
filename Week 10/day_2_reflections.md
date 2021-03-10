@@ -2,7 +2,7 @@
 
 ## Goals:
 
-* [ ] Finish bank tech test
-* [ ] Review
+* [x] Finish bank tech test
+* [x] Review
 
 ## Reflections:
