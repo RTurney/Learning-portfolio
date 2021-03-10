@@ -2,9 +2,9 @@
 
 ## Goals:
 
-* [ ] Start Gilded Rose tech test
-* [ ] Javascript kata
-* [ ] Python kata 
-* [ ] AND phone call 
+* [x] Start Gilded Rose tech test
+* [x] Javascript kata
+* [ ] Learn about jest
+* [ ] Process workshop 
 
 ## Reflections:
