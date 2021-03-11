@@ -5,5 +5,8 @@
 * [ ] Finish gilded rose
 * [ ] read about git hooks 
 * [ ] read about linter
+* [ ] Start a javascript course
 
 ## Reflections
+
+
