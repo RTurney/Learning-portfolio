@@ -2,7 +2,7 @@
 
 ## Goals:
 
-* [ ] Complete Bank tech test
+* [x] Complete Bank tech test
 * [ ] Complete gilded rose tech test 
 * [ ] Complete third tech test
 * [x] Apply to AND
