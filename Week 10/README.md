@@ -3,12 +3,12 @@
 ## Goals:
 
 * [x] Complete Bank tech test
-* [ ] Complete gilded rose tech test 
+* [x] Complete gilded rose tech test 
 * [ ] Complete third tech test
 * [x] Apply to AND
 * [ ] Work on instagram challenge
 * [ ] Clean up Github
-* [ ] Third review 
+* [x] Third review 
 
 ## Weekly challenges: 
 
