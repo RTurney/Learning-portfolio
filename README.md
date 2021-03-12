@@ -31,7 +31,6 @@ https://docs.google.com/spreadsheets/d/1zq6G6kpwI25_1A-4hIW-yC06aAKIa0f34v69iiNY
     
     
 ## **Projects** 
-I have yet to add anything here but as I continue on my learning jourmney I will add links to the projects I have worked on under here. 
 
 * Week 1 - [Boris Bike pair programming challenge](https://github.com/RTurney/boris-bikes)
 * Week 1 - [Airport challenge](https://github.com/RTurney/airport_challenge)
@@ -49,7 +48,8 @@ I have yet to add anything here but as I continue on my learning jourmney I will
 * Week 7 - [News summary challenge](https://github.com/RTurney/news-summary-challenge)
 * Week 8/9 - [Enginnering group project](https://github.com/jshields123/acebook--Pipeface-)
 * Week 8 - [Instagram challenge](https://github.com/RTurney/instagram-challenge)
-* Week 9 - Tech tests
+* Week 10 - Tech tests - [Bank](https://github.com/RTurney/Bank-tech-test)
+* Week 10 - Tech tests - [Gilded Rose](https://github.com/RTurney/Gilded-Rose/tree/main/js-jest)
 
 
 
