@@ -2,7 +2,7 @@
 
 ## Goals: 
 
-* [ ] Read about linter 
+* [x] Read about linter 
 * [ ] Read about githooks
 * [ ] refactor and properly stub guessing game 
 * [ ] Start blackjack in Ruby 
