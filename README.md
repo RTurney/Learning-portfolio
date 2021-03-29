@@ -50,7 +50,7 @@ https://docs.google.com/spreadsheets/d/1zq6G6kpwI25_1A-4hIW-yC06aAKIa0f34v69iiNY
 * Week 8 - [Instagram challenge](https://github.com/RTurney/instagram-challenge)
 * Week 10 - Tech tests - [Bank](https://github.com/RTurney/Bank-tech-test)
 * Week 10 - Tech tests - [Gilded Rose](https://github.com/RTurney/Gilded-Rose/tree/main/js-jest)
-
+* Week 11/12 - Final project - SassTask
 
 
 
